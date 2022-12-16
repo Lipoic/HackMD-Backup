@@ -6,6 +6,9 @@ lang: zh-tw
 tags: 核心文件
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/dDtZ7VfXSf22jB_b09ywNw/badge)](https://hackmd.io/dDtZ7VfXSf22jB_b09ywNw)
+
+
 :::info
 制定日期： 2022-05-22
 最後修訂： 2022-12-03
